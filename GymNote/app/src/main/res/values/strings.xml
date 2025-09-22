@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GymNote</string>
+    <string name="prompt_type">Loại</string>
+    <string name="contentDescription_type">Thêm</string>
+    <string-array name="types_array">
+        <item>Tập Ngực</item>
+        <item>Tập Chân</item>
+        <item>Tập Bụng</item>
+        <item>Tập Vai</item>
+        <item>Tập Tay</item>
+    </string-array>
+</resources>
